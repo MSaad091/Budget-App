@@ -11,4 +11,4 @@ Built using **HTML**, **CSS**, and **JavaScript**.
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MSaad091/Budget-App.git
+   git clone https://msaad091.github.io/Budget-App/
